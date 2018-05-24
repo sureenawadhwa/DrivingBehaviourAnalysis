@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/nimishjindal/DrivingBehaviourAnalysis#readme",
   "dependencies": {
+    "mocha": "^5.2.0",
     "mongoose": "^5.1.1"
   }
 }
